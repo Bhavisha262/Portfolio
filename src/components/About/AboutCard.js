@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Bhavisha Gandharva </span>
             from <span className="purple"> Vadodara,Gujarat, India.</span>
             <br />
-            I am currently employed as a  full stack developer at V-Ex Tech Solutions, Vadodara, Gujarat.
+            I was employed as a React JS Developer at V-Ex Tech Solution, Vadodara, Gujarat.
             <br />
             I have completed MSc in Forensic Science at Parul University, Vadodara.
             <br />
